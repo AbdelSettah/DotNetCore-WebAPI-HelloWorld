@@ -2,7 +2,7 @@
 
 A sample Hello RestController written in C# (core)
 
-### how tu run?
+## how tu run?
 
-dotnet run
-Enjoy endpoints ;-)
+### dotnet run
+### Enjoy endpoints ;-)
